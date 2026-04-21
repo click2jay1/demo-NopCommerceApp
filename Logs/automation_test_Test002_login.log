@@ -1,0 +1,268 @@
+2026-03-23 16:26:23.363: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 16:26:23.364: [INFO]: ************* Verifying DDT Login Test ***************
+2026-03-23 16:26:37.282: [INFO]: ************** Login Test Completed ****************
+2026-03-23 16:33:59.933: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 16:33:59.934: [INFO]: ************* Verifying DDT Login Test ***************
+2026-03-23 16:34:31.032: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 16:34:31.032: [INFO]: ************* Verifying DDT Login Test ***************
+2026-03-23 16:34:50.097: [INFO]: ************** Login Test Completed ****************
+2026-03-23 16:35:45.250: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 16:35:45.250: [INFO]: ************* Verifying DDT Login Test ***************
+2026-03-23 16:36:03.929: [INFO]: ************** Login Test Completed ****************
+2026-03-23 16:53:52.107: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 16:53:57.851: [INFO]: *** Combination number 2 is failed ***
+2026-03-23 16:55:54.541: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 16:56:00.414: [INFO]: *** Combination number 2 is failed ***
+2026-03-23 17:04:07.917: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 17:04:13.975: [INFO]: *** Combination number 2 is failed ***
+2026-03-23 17:08:57.614: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 17:09:03.391: [INFO]: *** Combination number 2 is failed ***
+2026-03-23 17:10:14.240: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 17:10:19.922: [INFO]: *** Combination number 2 is failed ***
+2026-03-23 17:20:01.790: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 17:20:07.529: [INFO]: *** Combination number 2 is failed ***
+2026-03-23 17:27:04.275: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 17:27:10.022: [INFO]: *** Combination number 2 is Failed ***
+2026-03-23 17:34:14.367: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 17:34:20.186: [INFO]: *** Combination number 2 is Failed ***
+2026-03-23 17:36:48.009: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 17:36:53.856: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 17:39:06.016: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 17:39:11.856: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 17:39:55.020: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 17:40:00.720: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 17:46:57.027: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 17:47:03.062: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 17:51:33.993: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 17:51:39.894: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 17:56:38.985: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 17:56:44.730: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 17:58:55.712: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 17:59:01.495: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 17:59:49.119: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 17:59:54.829: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 18:01:03.354: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 18:01:09.073: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 18:01:29.197: [INFO]: *** Combination number 2 is Passed ***
+2026-03-23 18:01:34.356: [INFO]: *** Combination number 3 is Passed ***
+2026-03-23 18:01:39.510: [INFO]: *** Combination number 4 is Passed ***
+2026-03-23 18:01:39.523: [INFO]: ****** DDT Login Test Fail *******
+2026-03-23 18:04:53.232: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 18:04:59.244: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 18:05:20.401: [INFO]: *** Combination number 2 is Passed ***
+2026-03-23 18:05:25.538: [INFO]: *** Combination number 3 is Passed ***
+2026-03-23 18:05:30.670: [INFO]: *** Combination number 4 is Passed ***
+2026-03-23 18:05:30.690: [INFO]: ****** DDT Login Test Fail *******
+2026-03-23 18:07:49.168: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 18:07:55.057: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 18:09:10.434: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 18:09:16.193: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 18:11:27.618: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 18:11:33.786: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 18:11:55.443: [INFO]: *** Combination number 2 is Passed ***
+2026-03-23 18:12:00.622: [INFO]: *** Combination number 3 is Passed ***
+2026-03-23 18:12:05.840: [INFO]: *** Combination number 4 is Passed ***
+2026-03-23 18:12:08.393: [INFO]: ****** DDT Login Test Fail *******
+2026-03-23 18:15:55.762: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 18:16:01.415: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 18:17:11.325: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 18:17:17.231: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 18:18:27.225: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 18:18:32.790: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 18:19:34.875: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 18:19:40.761: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 18:20:01.615: [INFO]: *** Combination number 2 is Passed ***
+2026-03-23 18:20:06.860: [INFO]: *** Combination number 3 is Passed ***
+2026-03-23 18:20:11.991: [INFO]: *** Combination number 4 is Passed ***
+2026-03-23 18:20:14.501: [INFO]: ****** DDT Login Test Fail *******
+2026-03-23 18:21:08.958: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 18:21:14.852: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 18:22:48.693: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 18:23:11.201: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 18:23:16.506: [INFO]: *** Combination number 2 is Passed ***
+2026-03-23 18:23:21.879: [INFO]: *** Combination number 3 is Passed ***
+2026-03-23 18:23:27.076: [INFO]: *** Combination number 4 is Passed ***
+2026-03-23 18:23:29.541: [INFO]: ****** DDT Login Test Fail *******
+2026-03-23 18:26:02.709: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 18:26:53.359: [INFO]: *** Combination number 1 is Failed ***
+2026-03-23 18:26:58.646: [INFO]: *** Combination number 2 is Passed ***
+2026-03-23 18:27:03.832: [INFO]: *** Combination number 3 is Passed ***
+2026-03-23 18:27:09.103: [INFO]: *** Combination number 4 is Passed ***
+2026-03-23 18:27:11.641: [INFO]: ****** DDT Login Test Fail *******
+2026-03-23 18:29:54.470: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-23 18:30:30.203: [INFO]: *** Combination number 1 is Passed ***
+2026-03-23 18:31:06.101: [INFO]: *** Combination number 2 is Passed ***
+2026-03-23 18:31:41.439: [INFO]: *** Combination number 3 is Passed ***
+2026-03-23 18:32:16.504: [INFO]: *** Combination number 4 is Passed ***
+2026-03-23 18:32:19.077: [INFO]: ******* DDT Login Test Pass ********
+2026-03-23 18:32:19.077: [INFO]: ************** Login Test Completed ****************
+2026-03-28 22:24:42.841: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-28 22:25:18.469: [INFO]: *** Combination number 1 is Passed ***
+2026-03-28 22:25:54.394: [INFO]: *** Combination number 2 is Passed ***
+2026-03-28 22:26:29.507: [INFO]: *** Combination number 3 is Passed ***
+2026-03-28 22:27:04.864: [INFO]: *** Combination number 4 is Passed ***
+2026-03-28 22:27:07.467: [INFO]: ******* DDT Login Test Pass ********
+2026-03-28 22:27:07.468: [INFO]: ************** Login Test Completed ****************
+2026-03-30 16:14:26.744: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-30 16:15:15.191: [INFO]: *** Combination number 1 is Passed ***
+2026-03-30 16:15:25.627: [ERROR]: ************** Login Test Failed ****************
+2026-03-30 16:21:31.668: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-30 16:22:16.778: [INFO]: *** Combination number 1 is Passed ***
+2026-03-30 16:22:27.254: [ERROR]: ************** Login Test Failed ****************
+2026-03-30 16:25:02.754: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-30 16:25:48.137: [INFO]: *** Combination number 1 is Passed ***
+2026-03-30 16:25:58.579: [ERROR]: ************** Login Test Failed ****************
+2026-03-30 16:39:04.508: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-30 16:39:23.244: [INFO]: *** Combination number 1 is Passed ***
+2026-03-30 16:39:33.689: [ERROR]: ************** Login Test Failed ****************
+2026-03-30 16:44:46.298: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-30 16:45:05.372: [INFO]: *** Combination number 1 is Passed ***
+2026-03-30 16:52:50.091: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-30 16:53:08.773: [INFO]: *** Combination number 1 is Passed ***
+2026-03-30 17:04:45.398: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-30 17:05:04.022: [INFO]: *** Combination number 1 is Passed ***
+2026-03-30 17:09:19.878: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-30 17:09:38.629: [INFO]: *** Combination number 1 is Passed ***
+2026-03-30 17:09:48.732: [ERROR]: Logout failed or timed out
+2026-03-30 17:17:48.144: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-30 17:18:12.075: [INFO]: *** Combination number 1 is Passed ***
+2026-03-30 17:26:25.251: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-30 17:26:49.020: [INFO]: *** Combination number 1 is Passed ***
+2026-03-30 17:26:49.021: [INFO]: Number 1 Login check is done
+2026-03-30 17:34:43.420: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-30 17:34:44.141: [INFO]: *** Number 1 entry starts ****
+2026-03-30 17:34:44.180: [INFO]: *** Number 1 entry ends ****
+2026-03-30 17:34:44.181: [INFO]: *** Number 1 Login check starts ****
+2026-03-30 17:35:02.206: [INFO]: *** Combination number 1 is Passed ***
+2026-03-30 17:35:02.207: [INFO]: *** Number 1 Login check is done ****
+2026-03-30 17:35:12.681: [WARNING]: Skipping logout due to error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1137dd3
+	0x1137e14
+	0xf41db0
+	0xf8c20a
+	0xf8c4ab
+	0xfcde32
+	0xfaea84
+	0xfcb621
+	0xfae7d6
+	0xf80049
+	0xf80e04
+	0x1396924
+	0x1391bf7
+	0x13af5a0
+	0x1150f58
+	0x115891d
+	0x1140648
+	0x1140812
+	0x112a21a
+	0x76105d49
+	0x7726d81b
+	0x7726d7a1
+
+2026-03-30 17:35:13.176: [INFO]: *** Number 2 entry starts ****
+2026-03-30 17:44:24.045: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-30 17:44:24.669: [INFO]: *** Number 1 entry starts ****
+2026-03-30 17:44:24.704: [INFO]: *** Number 1 entry ends ****
+2026-03-30 17:44:24.704: [INFO]: *** Number 1 Login check starts ****
+2026-03-30 17:44:42.964: [INFO]: *** Combination number 1 is Passed ***
+2026-03-30 17:44:42.966: [INFO]: *** Number 1 Login check is done ****
+2026-03-30 17:44:53.445: [WARNING]: Skipping logout due to error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa17dd3
+	0xa17e14
+	0x821db0
+	0x86c20a
+	0x86c4ab
+	0x8ade32
+	0x88ea84
+	0x8ab621
+	0x88e7d6
+	0x860049
+	0x860e04
+	0xc76924
+	0xc71bf7
+	0xc8f5a0
+	0xa30f58
+	0xa3891d
+	0xa20648
+	0xa20812
+	0xa0a21a
+	0x76105d49
+	0x7726d81b
+	0x7726d7a1
+
+2026-03-30 17:44:53.987: [INFO]: *** Number 2 entry starts ****
+2026-03-30 17:44:54.002: [INFO]: *** Number 2 entry ends ****
+2026-03-30 17:44:54.002: [INFO]: *** Number 2 Login check starts ****
+2026-03-30 17:45:10.845: [INFO]: *** Combination number 2 is Passed ***
+2026-03-30 17:45:10.846: [INFO]: *** Number 2 Login check is done ****
+2026-03-30 17:45:10.860: [INFO]: Logout button not found - moving to next iteration
+2026-03-30 17:45:11.362: [INFO]: *** Number 3 entry starts ****
+2026-03-30 17:45:11.376: [INFO]: *** Number 3 entry ends ****
+2026-03-30 17:45:11.377: [INFO]: *** Number 3 Login check starts ****
+2026-03-30 17:45:29.794: [INFO]: *** Combination number 3 is Passed ***
+2026-03-30 17:45:29.795: [INFO]: *** Number 3 Login check is done ****
+2026-03-30 17:45:29.812: [INFO]: Logout button not found - moving to next iteration
+2026-03-30 17:45:30.358: [INFO]: *** Number 4 entry starts ****
+2026-03-30 17:45:30.377: [INFO]: *** Number 4 entry ends ****
+2026-03-30 17:45:30.378: [INFO]: *** Number 4 Login check starts ****
+2026-03-30 17:45:47.263: [INFO]: *** Combination number 4 is Passed ***
+2026-03-30 17:45:47.264: [INFO]: *** Number 4 Login check is done ****
+2026-03-30 17:45:47.281: [INFO]: Logout button not found - moving to next iteration
+2026-03-30 17:45:48.648: [INFO]: ******* DDT Login Test Pass ********
+2026-03-30 17:45:48.648: [INFO]: ************** Login Test Completed ****************
+2026-03-30 20:00:14.244: [INFO]: *************** Test_002_DDT_Login *******************
+2026-03-30 20:00:14.822: [INFO]: *** Number 1 entry starts ****
+2026-03-30 20:00:14.855: [INFO]: *** Number 1 entry ends ****
+2026-03-30 20:00:14.855: [INFO]: *** Number 1 Login check starts ****
+2026-03-30 20:00:33.942: [INFO]: *** Combination number 1 is Passed ***
+2026-03-30 20:00:33.943: [INFO]: *** Number 1 Login check is done ****
+2026-03-30 20:00:44.287: [WARNING]: Skipping logout due to error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xa37dd3
+	0xa37e14
+	0x841db0
+	0x88c20a
+	0x88c4ab
+	0x8cde32
+	0x8aea84
+	0x8cb621
+	0x8ae7d6
+	0x880049
+	0x880e04
+	0xc96924
+	0xc91bf7
+	0xcaf5a0
+	0xa50f58
+	0xa5891d
+	0xa40648
+	0xa40812
+	0xa2a21a
+	0x76105d49
+	0x7726d81b
+	0x7726d7a1
+
+2026-03-30 20:00:44.891: [INFO]: *** Number 2 entry starts ****
+2026-03-30 20:00:44.933: [INFO]: *** Number 2 entry ends ****
+2026-03-30 20:00:44.933: [INFO]: *** Number 2 Login check starts ****
+2026-03-30 20:01:02.269: [INFO]: *** Combination number 2 is Passed ***
+2026-03-30 20:01:02.270: [INFO]: *** Number 2 Login check is done ****
+2026-03-30 20:01:02.315: [INFO]: Logout button not found - moving to next iteration
+2026-03-30 20:01:02.930: [INFO]: *** Number 3 entry starts ****
+2026-03-30 20:01:02.953: [INFO]: *** Number 3 entry ends ****
+2026-03-30 20:01:02.953: [INFO]: *** Number 3 Login check starts ****
+2026-03-30 20:01:20.132: [INFO]: *** Combination number 3 is Passed ***
+2026-03-30 20:01:20.134: [INFO]: *** Number 3 Login check is done ****
+2026-03-30 20:01:20.153: [INFO]: Logout button not found - moving to next iteration
+2026-03-30 20:01:20.822: [INFO]: *** Number 4 entry starts ****
+2026-03-30 20:01:20.870: [INFO]: *** Number 4 entry ends ****
+2026-03-30 20:01:20.871: [INFO]: *** Number 4 Login check starts ****
+2026-03-30 20:01:38.311: [INFO]: *** Combination number 4 is Passed ***
+2026-03-30 20:01:38.312: [INFO]: *** Number 4 Login check is done ****
+2026-03-30 20:01:38.336: [INFO]: Logout button not found - moving to next iteration
+2026-03-30 20:01:40.092: [INFO]: ******* DDT Login Test Pass ********
+2026-03-30 20:01:40.092: [INFO]: ************** Login Test Completed ****************
