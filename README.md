@@ -69,23 +69,32 @@ cd demo-NopCommerceApp
 python -m venv .venv
 ```
 Activate it:
+```text
 On Windows
 .venv\Scripts\activate
 
 On Mac/Linux
 source .venv/bin/activate
-
+```
 ### Step 3: Install dependencies
+```text
 pip install -r requirements.txt
+```
 
 ### Step 4: Run all tests
+```text
 pytest testCases/ -v --html=Reports/report.html
+```
 
 ### Step 5: Run a single test file
+```text
 pytest testCases/test_loginPage_ddt.py -v
+```
 
 ### Alternative: One-click execution
+```text
 Double-click run.bat
+```
 
 ## Key Features
 - Scalable Page Object Model (POM) design
