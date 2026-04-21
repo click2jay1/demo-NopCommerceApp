@@ -23,6 +23,8 @@ This framework mirrors the testing approach needed for public/enterprise systems
 ---
 
 ## Folder Structure
+
+```text
 demo-NopCommerceApp/
 ├── pageObjects/        # Page classes (locators + methods)
 ├── testCases/          # Test scripts
