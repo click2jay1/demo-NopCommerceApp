@@ -24,22 +24,22 @@ This framework mirrors the testing approach needed for public/enterprise systems
 
 ## Folder Structure
 demo-NopCommerceApp/
-├── pageObjects/ # Locators + methods per page
-├── testCases/ # All test scripts
-│ ├── conftest.py # Pytest fixtures (setup/teardown)
-│ ├── pytest.ini # Pytest configuration
-│ ├── test_loginPage.py # Basic login validation
-│ ├── test_loginPage_ddt.py # Data-driven login tests
-│ ├── test_add_newCustomer.py # Customer creation flow
-│ └── test_search_customers.py # Customer search validation
-├── utilities/ # Custom wrappers, Excel readers, logging
-├── Configurations/ # Config files (URLs, credentials)
-├── TestData/ # Test data (JSON/Excel/CSV)
-├── Logs/ # Execution logs
-├── Reports/ # HTML test reports
-├── ScreenShots/ # Screenshots on test failure
-├── requirements # Dependencies list
-└── run.bat # One-click execution
+├── pageObjects/        # Page classes (locators + methods)
+├── testCases/          # Test scripts
+│   ├── conftest.py     # Fixtures (setup/teardown)
+│   ├── pytest.ini      # Pytest configuration
+│   ├── test_loginPage.py
+│   ├── test_loginPage_ddt.py
+│   ├── test_add_newCustomer.py
+│   └── test_search_customers.py
+├── utilities/          # Helpers (Excel, logging, reusable functions)
+├── Configurations/     # Environment configs (URLs, credentials)
+├── TestData/           # JSON / Excel / CSV test data
+├── Logs/               # Execution logs
+├── Reports/            # HTML reports
+├── ScreenShots/        # Failure screenshots
+├── requirements.txt    # Dependencies
+└── run.bat             # One-click execution (Windows)
 
 ---
 
@@ -57,29 +57,29 @@ demo-NopCommerceApp/
 ## How to Run Tests
 
 ### Step 1: Clone the repository
-```bash
 git clone https://github.com/click2jay1/demo-NopCommerceApp.git
 cd demo-NopCommerceApp
-Step 2: Create virtual environment (recommended)
+
+### Step 2: Create virtual environment (recommended)
 python -m venv .venv
 
 Activate it:
-
 On Windows
-
 .venv\Scripts\activate
 
 On Mac/Linux
-
 source .venv/bin/activate
-Step 3: Install dependencies
+
+### Step 3: Install dependencies
 pip install -r requirements.txt
-Step 4: Run all tests
+
+### Step 4: Run all tests
 pytest testCases/ -v --html=Reports/report.html
-Step 5: Run a single test file
+
+### Step 5: Run a single test file
 pytest testCases/test_loginPage_ddt.py -v
 
-Alternative: One-click execution
+### Alternative: One-click execution
 Double-click run.bat
 
 ## Key Features
