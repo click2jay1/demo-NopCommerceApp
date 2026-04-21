@@ -42,7 +42,7 @@ demo-NopCommerceApp/
 ├── ScreenShots/        # Failure screenshots
 ├── requirements.txt    # Dependencies
 └── run.bat             # One-click execution (Windows)
-
+```
 ---
 
 ## Test Coverage (Matches Your Test Cases)
@@ -59,12 +59,15 @@ demo-NopCommerceApp/
 ## How to Run Tests
 
 ### Step 1: Clone the repository
+```text
 git clone https://github.com/click2jay1/demo-NopCommerceApp.git
 cd demo-NopCommerceApp
+```
 
 ### Step 2: Create virtual environment (recommended)
+```text
 python -m venv .venv
-
+```
 Activate it:
 On Windows
 .venv\Scripts\activate
