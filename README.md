@@ -83,17 +83,19 @@ pytest testCases/test_loginPage_ddt.py -v
 Double-click run.bat
 
 ## Key Features
-- Page Object Model for maintainability
-- Data-Driven Testing with external files
-- Screenshots on test failure
-- HTML reports for stakeholders
-- Config separation (no hardcoded data)
+- Scalable Page Object Model (POM) design
+- Robust Data-Driven Testing (DDT) using external datasets
+- Automatic screenshots on failure
+- HTML reporting for easy stakeholder review
+- Clean configuration management (no hardcoded values)
+- Parallel execution support for faster test cycles
 
-## Why This Framework Matters for Staff/Senior Quality Assurance Engineer Role
-- Demonstrates automation-first mindset
-- Shows scalable, maintainable framework design
-- Includes data integrity validation (customers, login)
-- Ready for CI/CD integration
+## Why This Framework Matters for Senior/Staff QA Roles
+- Demonstrates an automation-first mindset
+- Built for scalability and maintainability
+- Validates critical data workflows (login, customer data)
+- Easily integrable into CI/CD pipelines
+- Aligns with enterprise and financial system testing standards
 
 # Author
 Jay Raj Prakash
