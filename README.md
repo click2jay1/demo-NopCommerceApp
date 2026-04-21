@@ -56,24 +56,26 @@ demo-NopCommerceApp/
 
 ## How to Run Tests
 
-## How to Run Tests
-
 ### Step 1: Clone the repository
 ```bash
 git clone https://github.com/click2jay1/demo-NopCommerceApp.git
 cd demo-NopCommerceApp
-
-Step 2. Create virtual environment (recommended)
+Step 2: Create virtual environment (recommended)
 python -m venv .venv
-.venv\Scripts\activate   # On Windows
-source .venv/bin/activate  # On Mac/Linux
 
+Activate it:
+
+On Windows
+
+.venv\Scripts\activate
+
+On Mac/Linux
+
+source .venv/bin/activate
 Step 3: Install dependencies
 pip install -r requirements.txt
-
 Step 4: Run all tests
 pytest testCases/ -v --html=Reports/report.html
-
 Step 5: Run a single test file
 pytest testCases/test_loginPage_ddt.py -v
 
