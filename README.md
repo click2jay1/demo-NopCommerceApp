@@ -56,25 +56,25 @@ demo-NopCommerceApp/
 
 ## How to Run Tests
 
-Step 1. Clone the repository
+**Step 1. Clone the repository**
 git clone https://github.com/click2jay1/demo-NopCommerceApp.git
 cd demo-NopCommerceApp
 
-Step 2. Create virtual environment (recommended)
+**Step 2. Create virtual environment (recommended)**
 python -m venv .venv
 .venv\Scripts\activate   # On Windows
 source .venv/bin/activate  # On Mac/Linux
 
-Step 3: Install dependencies
+**Step 3: Install dependencies**
 pip install -r requirements
 
-Step 4: Run all tests
+**Step 4: Run all tests**
 pytest testCases/ -v --html=Reports/report.html
 
-Step 5: Run a single test file
+**Step 5: Run a single test file**
 pytest testCases/test_loginPage_ddt.py -v
 
-Alternative: One-click execution
+**Alternative: One-click execution**
 Double-click run.bat
 
 ## Key Features
@@ -84,7 +84,7 @@ Double-click run.bat
 - HTML reports for stakeholders
 - Config separation (no hardcoded data)
 
-## Why This Framework Matters for Staff Test Engineer Role
+## Why This Framework Matters for Staff/Senior Quality Assurance Engineer Role
 - Demonstrates automation-first mindset
 - Shows scalable, maintainable framework design
 - Includes data integrity validation (customers, login)
@@ -94,4 +94,5 @@ Double-click run.bat
 Jay Raj Prakash
 ISTQB Advanced Level (CTAL-TAE) Certified
 📧 jayrajprakash@outlook.com
-🔗 [GitHub Profile](https://github.com/)
+🔗 GitHub Profile
+📍 Greater Seattle Area, WA
