@@ -63,7 +63,7 @@ cd demo-NopCommerceApp
 ### 2. Create virtual environment (recommended)
 python -m venv .venv
 .venv\Scripts\activate   # On Windows
-# source .venv/bin/activate  # On Mac/Linux
+source .venv/bin/activate  # On Mac/Linux
 
 ### Step 3: Install dependencies
 pip install -r requirements
