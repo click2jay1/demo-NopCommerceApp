@@ -1,10 +1,10 @@
 # NopCommerce Demo – Selenium Python Automation Framework
 
 ## Project Overview
-End-to-end test automation framework for [demo.nopcommerce.com](https://demo.nopcommerce.com/), a popular e-commerce demo site. Designed to demonstrate **enterprise-grade testing practices** including Page Object Model (POM), Data-Driven Testing (DDT), and cross-browser execution.
+End-to-end test automation framework for demo.nopcommerce.com, a widely used e-commerce demo platform. This project demonstrates enterprise-grade QA practices, including Page Object Model (POM), Data-Driven Testing (DDT), and cross-browser execution.
 
 **Why this matters:**  
-This framework mirrors the testing approach needed for public/enterprise systems — data integrity, login security, customer data management, and search/retrieval accuracy.
+The framework reflects real-world testing needs for enterprise and financial systems, ensuring data integrity, authentication reliability, customer data management, and search accuracy.
 
 ---
 
