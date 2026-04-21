@@ -61,7 +61,7 @@ demo-NopCommerceApp/
 git clone https://github.com/click2jay1/demo-NopCommerceApp.git
 cd demo-NopCommerceApp
 
-**Step 2. Create virtual environment (recommended)**
+Step 2. Create virtual environment (recommended)
 ```bash
 python -m venv .venv
 .venv\Scripts\activate   # On Windows
