@@ -112,8 +112,10 @@ Double-click run.bat
 - Aligns with enterprise and financial system testing standards
 
 # Author
-Jay Raj Prakash
+**Jay Raj Prakash**
+```text
 ISTQB Advanced Level (CTAL-TAE) Certified
 📧 jayrajprakash@outlook.com
 🔗 [GitHub Profile](https://github.com/click2jay1)
 📍 Greater Seattle Area, WA
+```
