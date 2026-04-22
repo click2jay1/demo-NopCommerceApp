@@ -113,8 +113,9 @@ Double-click run.bat
 
 # Author
 **Jay Raj Prakash**
-```text
 ISTQB Advanced Level (CTAL-TAE) Certified
+```text
+
 📧 jayrajprakash@outlook.com
 🔗 [GitHub Profile](https://github.com/click2jay1)
 📍 Greater Seattle Area, WA
