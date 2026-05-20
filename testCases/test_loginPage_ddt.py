@@ -32,11 +32,11 @@ class Test_002_Login:
         for r in range(2,self.rows+1):
             print(f"\nvalue of 'r': {r}")
             self.username = xlUtilities.readData(self.path, 'Sheet1', r, 1)
-            print(f"Username: {self.username}")
+            #print(f"Username: {self.username}")
             self.password = xlUtilities.readData(self.path, 'Sheet1', r, 2)
-            print(f"Password: {self.password}")
+            #print(f"Password: {self.password}")
             self.exp = xlUtilities.readData(self.path, 'Sheet1', r, 3)
-            print(f"Expected result: {self.exp}")
+            #print(f"Expected result: {self.exp}")
 
             self.driver.delete_all_cookies()
             self.driver.get(self.base_url)

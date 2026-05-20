@@ -19,4 +19,4 @@ def writeData(file,sheetName, rowNum, columnNum):
     workbook = openpyxl.load_workbook(file)
     sheet = workbook[sheetName]
     sheet.cell(row=rowNum, column=columnNum).value = data
-    workbook.save(file)
+    workbook.save(file).
